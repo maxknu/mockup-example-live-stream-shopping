@@ -35,6 +35,6 @@ yarn start
 ```
 
 ## Showing stream video
-Start the RTMP server
-Start your android or iOS app and start streaming
-The stream should pop up on the mockup page
+### Start the RTMP server
+### Start your android or iOS app and start streaming
+### The stream should pop up on the mockup page
